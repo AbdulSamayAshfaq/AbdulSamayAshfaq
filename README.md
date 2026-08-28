@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5EAA,100:1C2333&height=200&section=header&text=Abdul%20Samay%20Ashfaq&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5EAA,100:1C2333&height=200&section=header&text=Abdul%20Samay%20Ashfaq&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20and%20AI%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/samay-ali-554ab82b4/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
