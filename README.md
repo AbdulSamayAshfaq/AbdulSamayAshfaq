@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2333,100:2E5EAA&height=210&section=header&text=Abdul%20Samay%20Ashfaq&fontSize=44&fontColor=ffffff&fontAlignY=34&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2E5EAA&center=true&vCenter=true&width=520&lines=Full-Stack+%2B+AI+Developer;Building+with+React%2C+Node.js+%26+Python;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2E5EAA&center=true&vCenter=true&width=520&lines=Full-Stack+%2B+AI+Developer;Building+with+Next.js%2C+Node.js+%26+Python;Turning+ideas+into+shipped+products" alt="Typing SVG" />
 
 <br/>
 
@@ -57,7 +57,7 @@ New frameworks, better architecture, cleaner ways to ship
 
 | 🎨 Frontend | ⚙️ Backend | 🤖 AI Integration | 🗄️ Data | 🧹 Code Quality |
 |:---:|:---:|:---:|:---:|:---:|
-| React & Next.js UI, responsive by default | REST APIs, auth & business logic | AI/LLMs as a real feature, not a gimmick | Schema design & query performance | Readable, maintainable, built to last |
+| Next.js & Next.js UI, responsive by default | REST APIs, auth & business logic | AI/LLMs as a real feature, not a gimmick | Schema design & query performance | Readable, maintainable, built to last |
 
 </div>
 
@@ -67,7 +67,7 @@ New frameworks, better architecture, cleaner ways to ship
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,html,css,nodejs,express,postgres,mongodb,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,tailwind,html,css,nodejs,express,postgres,mongodb,git,github,vscode,postman&theme=dark" />
 
 </div>
 
@@ -86,7 +86,7 @@ Full-stack e-commerce platform covering the complete shopping flow.
 &nbsp;&nbsp;✔️ Payment integration<br/>
 &nbsp;&nbsp;✔️ User accounts & order management
 
-<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-Next.js-20232A?style=flat-square&logo=Next.js&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 
@@ -100,7 +100,7 @@ A full-stack platform for the fashion design workflow, from concept to catalog.
 &nbsp;&nbsp;✔️ Structured data models for designs<br/>
 &nbsp;&nbsp;✔️ Clean, modern UI
 
-<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-Next.js-20232A?style=flat-square&logo=Next.js&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-API-2E5EAA?style=flat-square" />
 
@@ -117,7 +117,7 @@ A modern task management app focused on a smooth day-to-day UX.
 &nbsp;&nbsp;✔️ Built with maintainability in mind
 
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-Next.js-20232A?style=flat-square&logo=Next.js&logoColor=61DAFB" />
 
 </td>
 <td width="50%" valign="top">
