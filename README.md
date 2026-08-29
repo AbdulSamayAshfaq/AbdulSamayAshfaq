@@ -1,53 +1,50 @@
-# Hi, I'm Abdul Samay 👋
+<div align="center">
 
-Full Stack Developer based in Karachi, building modern web applications with **Next.js, React, TypeScript, Node.js, and Python/FastAPI**.
+# Abdul Samay
 
-I focus on turning real business problems into clean, scalable, production-ready software — and I'm increasingly working at the intersection of full-stack development and AI, integrating LLMs and automation into practical applications.
+**Full Stack Developer & AI Engineer** — Karachi, Pakistan
 
-Currently sharpening my skills in backend engineering and applied AI. Open to internships, freelance projects, and collaboration — feel free to reach out.
+*Building software that ships, scales, and doesn't need a rewrite in six months.*
 
----
+[Email](mailto:samayali692@gmail.com) · [LinkedIn](https://www.linkedin.com/in/samay-ali-554ab82b4/)
 
-### 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samay-ali-554ab82b4/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samayali692@gmail.com)
+</div>
 
----
+<br>
 
-### 🛠️ Tech Stack
+## What I do
 
-**Languages & Frontend**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+I build full-stack web applications end-to-end — schema design, API architecture, and the UI that sits on top. My core stack is **Next.js, React, TypeScript, Node.js, and Python/FastAPI**.
 
-**Backend & Databases**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+On the AI side, I work across model training, LLM agent development, and automation — building agents that handle real tasks and pipelines that remove manual work, not AI as a side experiment.
 
-**Data & Tools**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+I'd rather ship a smaller feature that's well-tested than a large one that's fragile. That bias shows up in how I write code, review my own work, and pick what to build next.
 
----
+<br>
 
-### 📊 GitHub Stats
+## Stack
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AbdulSamayAshfaq&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
+```
+Frontend      TypeScript · React · Next.js · HTML5 · CSS3
+Backend       Node.js · Python · FastAPI · Socket.io
+AI            LLM agents · Model training · Automation pipelines · Prompt engineering
+Data          MySQL · Firebase · Pandas · NumPy
+Tooling       Docker · Git
+```
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulSamayAshfaq&theme=shadow_blue&hide_border=false)
+<br>
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AbdulSamayAshfaq&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Activity
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulSamayAshfaq&icon=5&color=3" alt="Profile views" />
-</p>
+<img src="https://github-readme-stats.shion.dev/api?username=AbdulSamayAshfaq&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbdulSamayAshfaq&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" height="165"/>
+
+</div>
+
+<br>
+
+<div align="center">
+<sub><img src="https://komarev.com/ghpvc/?username=AbdulSamayAshfaq&icon=5&color=3" alt="Profile views"/></sub>
+</div>
